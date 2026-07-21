@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/mannrandhawa004/DSA_C-/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/mannrandhawa004/DSA_C-/tree/master/0027-remove-element) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0169-majority-element](https://github.com/mannrandhawa004/DSA_C-/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/mannrandhawa004/DSA_C-/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/mannrandhawa004/DSA_C-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0219-contains-duplicate-ii) |
@@ -18,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mannrandhawa004/DSA_C-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mannrandhawa004/DSA_C-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0219-contains-duplicate-ii) |
 | [0268-missing-number](https://github.com/mannrandhawa004/DSA_C-/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/mannrandhawa004/DSA_C-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mannrandhawa004/DSA_C-/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/mannrandhawa004/DSA_C-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/mannrandhawa004/DSA_C-/tree/master/0414-third-maximum-number) |
@@ -65,4 +68,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0509-fibonacci-number](https://github.com/mannrandhawa004/DSA_C-/tree/master/0509-fibonacci-number) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mannrandhawa004/DSA_C-/tree/master/0169-majority-element) |
+## Counting
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/mannrandhawa004/DSA_C-/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
