@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/mannrandhawa004/DSA_C-/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/mannrandhawa004/DSA_C-/tree/master/0283-move-zeroes) |
+| [0334-increasing-triplet-subsequence](https://github.com/mannrandhawa004/DSA_C-/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/mannrandhawa004/DSA_C-/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/mannrandhawa004/DSA_C-/tree/master/0485-max-consecutive-ones) |
 | [1470-shuffle-the-array](https://github.com/mannrandhawa004/DSA_C-/tree/master/1470-shuffle-the-array) |
@@ -90,4 +91,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0334-increasing-triplet-subsequence](https://github.com/mannrandhawa004/DSA_C-/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
