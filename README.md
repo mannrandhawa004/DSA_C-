@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0189-rotate-array](https://github.com/mannrandhawa004/DSA_C-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mannrandhawa004/DSA_C-/tree/master/0283-move-zeroes) |
+| [0344-reverse-string](https://github.com/mannrandhawa004/DSA_C-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/mannrandhawa004/DSA_C-/tree/master/0392-is-subsequence) |
 ## Dynamic Programming
 |  |
@@ -100,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mannrandhawa004/DSA_C-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0344-reverse-string](https://github.com/mannrandhawa004/DSA_C-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/mannrandhawa004/DSA_C-/tree/master/0392-is-subsequence) |
 ## String Matching
 |  |
