@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/mannrandhawa004/DSA_C-/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/mannrandhawa004/DSA_C-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mannrandhawa004/DSA_C-/tree/master/0268-missing-number) |
 ## Sorting
 |  |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mannrandhawa004/DSA_C-/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/mannrandhawa004/DSA_C-/tree/master/0217-contains-duplicate) |
 | [0229-majority-element-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/mannrandhawa004/DSA_C-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mannrandhawa004/DSA_C-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/mannrandhawa004/DSA_C-/tree/master/0414-third-maximum-number) |
 ## Math
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mannrandhawa004/DSA_C-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/mannrandhawa004/DSA_C-/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/mannrandhawa004/DSA_C-/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/mannrandhawa004/DSA_C-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/mannrandhawa004/DSA_C-/tree/master/0392-is-subsequence) |
 ## String Matching
