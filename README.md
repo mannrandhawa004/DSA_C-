@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/mannrandhawa004/DSA_C-/tree/master/0334-increasing-triplet-subsequence) |
 | [0414-third-maximum-number](https://github.com/mannrandhawa004/DSA_C-/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/mannrandhawa004/DSA_C-/tree/master/0485-max-consecutive-ones) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mannrandhawa004/DSA_C-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mannrandhawa004/DSA_C-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/mannrandhawa004/DSA_C-/tree/master/1470-shuffle-the-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/mannrandhawa004/DSA_C-/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/mannrandhawa004/DSA_C-/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/mannrandhawa004/DSA_C-/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/mannrandhawa004/DSA_C-/tree/master/0414-third-maximum-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mannrandhawa004/DSA_C-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mannrandhawa004/DSA_C-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 ## Math
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/mannrandhawa004/DSA_C-/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/mannrandhawa004/DSA_C-/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/mannrandhawa004/DSA_C-/tree/master/0509-fibonacci-number) |
+| [0628-maximum-product-of-three-numbers](https://github.com/mannrandhawa004/DSA_C-/tree/master/0628-maximum-product-of-three-numbers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/mannrandhawa004/DSA_C-/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Binary Search
 |  |
