@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/mannrandhawa004/DSA_C-/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mannrandhawa004/DSA_C-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mannrandhawa004/DSA_C-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [3536-maximum-product-of-two-digits](https://github.com/mannrandhawa004/DSA_C-/tree/master/3536-maximum-product-of-two-digits) |
 ## Math
 |  |
 | ------- |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0509-fibonacci-number](https://github.com/mannrandhawa004/DSA_C-/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mannrandhawa004/DSA_C-/tree/master/0628-maximum-product-of-three-numbers) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/mannrandhawa004/DSA_C-/tree/master/2348-number-of-zero-filled-subarrays) |
+| [3536-maximum-product-of-two-digits](https://github.com/mannrandhawa004/DSA_C-/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
 |  |
 | ------- |
