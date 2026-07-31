@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/mannrandhawa004/DSA_C-/tree/master/0268-missing-number) |
+| [0278-first-bad-version](https://github.com/mannrandhawa004/DSA_C-/tree/master/0278-first-bad-version) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -139,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0176-second-highest-salary](https://github.com/mannrandhawa004/DSA_C-/tree/master/0176-second-highest-salary) |
 | [0181-employees-earning-more-than-their-managers](https://github.com/mannrandhawa004/DSA_C-/tree/master/0181-employees-earning-more-than-their-managers) |
 | [0182-duplicate-emails](https://github.com/mannrandhawa004/DSA_C-/tree/master/0182-duplicate-emails) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/mannrandhawa004/DSA_C-/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
