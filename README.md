@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/mannrandhawa004/DSA_C-/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/mannrandhawa004/DSA_C-/tree/master/0128-longest-consecutive-sequence) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/mannrandhawa004/DSA_C-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/mannrandhawa004/DSA_C-/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mannrandhawa004/DSA_C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mannrandhawa004/DSA_C-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/mannrandhawa004/DSA_C-/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/mannrandhawa004/DSA_C-/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/mannrandhawa004/DSA_C-/tree/master/0217-contains-duplicate) |
@@ -204,4 +206,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/mannrandhawa004/DSA_C-/tree/master/0535-encode-and-decode-tinyurl) |
+## Union-Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/mannrandhawa004/DSA_C-/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
