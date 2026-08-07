@@ -1,20 +1,35 @@
 class Solution {
-    unordered_map<size_t, string> map;
+    unordered_map<string, string> code2url;
+    unordered_map<string, string> url2code;
+    string chars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
+    string prefix = "http://tinyurl.com/";
+
+    string generateKey() {
+        string key;
+        for (int i = 0; i < 6; i++) {
+            key += chars[rand() % chars.size()];
+        }
+        return key;
+    }
 
 public:
     string encode(string longUrl) {
-        // Use std::hash for deterministic mapping
-        size_t key = hash<string>{}(longUrl);
-        // Handle collision: if the key exists but maps to a different URL
-        while (map.count(key) && map[key] != longUrl) {
-            key++;
+        // Return existing short URL if already encoded
+        if (url2code.count(longUrl)) {
+            return prefix + url2code[longUrl];
         }
-        map[key] = longUrl;
-        return "http://tinyurl.com/" + to_string(key);
+        // Generate a unique random key
+        string key = generateKey();
+        while (code2url.count(key)) {
+            key = generateKey();
+        }
+        code2url[key] = longUrl;
+        url2code[longUrl] = key;
+        return prefix + key;
     }
 
     string decode(string shortUrl) {
-        size_t key = stoull(shortUrl.substr(shortUrl.rfind('/') + 1));
-        return map[key];
+        string key = shortUrl.substr(prefix.size());
+        return code2url[key];
     }
 };
