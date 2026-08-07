@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/mannrandhawa004/DSA_C-/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/mannrandhawa004/DSA_C-/tree/master/0290-word-pattern) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0535-encode-and-decode-tinyurl](https://github.com/mannrandhawa004/DSA_C-/tree/master/0535-encode-and-decode-tinyurl) |
 ## Sorting
 |  |
 | ------- |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/mannrandhawa004/DSA_C-/tree/master/0290-word-pattern) |
 | [0344-reverse-string](https://github.com/mannrandhawa004/DSA_C-/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/mannrandhawa004/DSA_C-/tree/master/0392-is-subsequence) |
+| [0535-encode-and-decode-tinyurl](https://github.com/mannrandhawa004/DSA_C-/tree/master/0535-encode-and-decode-tinyurl) |
 | [1768-merge-strings-alternately](https://github.com/mannrandhawa004/DSA_C-/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
@@ -194,4 +196,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/mannrandhawa004/DSA_C-/tree/master/0075-sort-colors) |
+## Design
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/mannrandhawa004/DSA_C-/tree/master/0535-encode-and-decode-tinyurl) |
+## Hash Function
+|  |
+| ------- |
+| [0535-encode-and-decode-tinyurl](https://github.com/mannrandhawa004/DSA_C-/tree/master/0535-encode-and-decode-tinyurl) |
 <!---LeetCode Topics End-->
