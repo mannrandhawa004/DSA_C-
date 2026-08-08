@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/mannrandhawa004/DSA_C-/tree/master/0977-squares-of-a-sorted-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/mannrandhawa004/DSA_C-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/mannrandhawa004/DSA_C-/tree/master/1470-shuffle-the-array) |
+| [1512-number-of-good-pairs](https://github.com/mannrandhawa004/DSA_C-/tree/master/1512-number-of-good-pairs) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/mannrandhawa004/DSA_C-/tree/master/2348-number-of-zero-filled-subarrays) |
 ## Hash Table
 |  |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/mannrandhawa004/DSA_C-/tree/master/0409-longest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/mannrandhawa004/DSA_C-/tree/master/0535-encode-and-decode-tinyurl) |
 | [1189-maximum-number-of-balloons](https://github.com/mannrandhawa004/DSA_C-/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/mannrandhawa004/DSA_C-/tree/master/1512-number-of-good-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -78,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/mannrandhawa004/DSA_C-/tree/master/0367-valid-perfect-square) |
 | [0509-fibonacci-number](https://github.com/mannrandhawa004/DSA_C-/tree/master/0509-fibonacci-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/mannrandhawa004/DSA_C-/tree/master/0628-maximum-product-of-three-numbers) |
+| [1512-number-of-good-pairs](https://github.com/mannrandhawa004/DSA_C-/tree/master/1512-number-of-good-pairs) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/mannrandhawa004/DSA_C-/tree/master/2348-number-of-zero-filled-subarrays) |
 | [3536-maximum-product-of-two-digits](https://github.com/mannrandhawa004/DSA_C-/tree/master/3536-maximum-product-of-two-digits) |
 ## Binary Search
@@ -147,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/mannrandhawa004/DSA_C-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0229-majority-element-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/mannrandhawa004/DSA_C-/tree/master/1189-maximum-number-of-balloons) |
+| [1512-number-of-good-pairs](https://github.com/mannrandhawa004/DSA_C-/tree/master/1512-number-of-good-pairs) |
 ## Greedy
 |  |
 | ------- |
