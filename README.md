@@ -167,11 +167,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/mannrandhawa004/DSA_C-/tree/master/0409-longest-palindrome) |
 | [0535-encode-and-decode-tinyurl](https://github.com/mannrandhawa004/DSA_C-/tree/master/0535-encode-and-decode-tinyurl) |
 | [0680-valid-palindrome-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0680-valid-palindrome-ii) |
+| [0796-rotate-string](https://github.com/mannrandhawa004/DSA_C-/tree/master/0796-rotate-string) |
 | [1768-merge-strings-alternately](https://github.com/mannrandhawa004/DSA_C-/tree/master/1768-merge-strings-alternately) |
 ## String Matching
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mannrandhawa004/DSA_C-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/mannrandhawa004/DSA_C-/tree/master/0796-rotate-string) |
 ## Prefix Sum
 |  |
 | ------- |
