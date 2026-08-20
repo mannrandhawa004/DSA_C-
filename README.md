@@ -218,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/mannrandhawa004/DSA_C-/tree/master/0535-encode-and-decode-tinyurl) |
+| [0707-design-linked-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/0707-design-linked-list) |
 ## Hash Function
 |  |
 | ------- |
@@ -230,4 +231,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/0206-reverse-linked-list) |
+| [0707-design-linked-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
