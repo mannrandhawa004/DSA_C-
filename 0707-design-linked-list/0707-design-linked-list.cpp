@@ -1,57 +1,124 @@
 class MyLinkedList {
     struct Node {
-        int val;
-        Node* next;
-        Node(int v) : val(v), next(nullptr) {}
+        public:
+            int data;
+            Node* next;
+            Node(int val) {
+                data = val;
+                next = nullptr;
+            }
     };
 
-    Node* sentinel;
-    int size;
-
 public:
+    Node* head;
     MyLinkedList() {
-        sentinel = new Node(0);
-        size = 0;
+        head = nullptr;
     }
-
+    
     int get(int index) {
-        if (index < 0 || index >= size) return -1;
-        Node* current = sentinel->next;
-        for (int i = 0; i < index; i++) {
-            current = current->next;
+        Node* temp = head;
+        int count = 0;
+        while(temp != nullptr) {
+            if(index == count) {
+                return temp->data;
+            }
+            temp = temp->next;
+            count++;
         }
-        return current->val;
+        return -1;
+    }
+    
+    int getLength(Node* head){
+        Node* temp = head;
+        int count = 0;
+        while(temp!= nullptr){
+            count++;
+            temp=temp->next;
+        }
+        return count;
     }
 
     void addAtHead(int val) {
-        addAtIndex(0, val);
-    }
-
-    void addAtTail(int val) {
-        addAtIndex(size, val);
-    }
-
-    void addAtIndex(int index, int val) {
-        if (index < 0 || index > size) return;
-        Node* pred = sentinel;
-        for (int i = 0; i < index; i++) {
-            pred = pred->next;
-        }
         Node* newNode = new Node(val);
-        newNode->next = pred->next;
-        pred->next = newNode;
-        size++;
+        newNode -> next = head;
+        head = newNode; 
     }
-
-    void deleteAtIndex(int index) {
-        if (index < 0 || index >= size) return;
-        Node* pred = sentinel;
-        for (int i = 0; i < index; i++) {
-            pred = pred->next;
+    
+    void addAtTail(int val) {
+        if(head == nullptr) {
+            head = new Node(val);
+            return;
         }
-        Node* toDelete = pred->next;
-        pred->next = toDelete->next;
-        delete toDelete;
-        size--;
+        Node* temp = head;
+        while(temp->next != nullptr) {
+            temp = temp->next;
+        }
+        Node* newnode = new Node(val);
+        temp->next = newnode;
+    }
+    
+    void addAtIndex(int index, int val) {
+        if(index == 0) {
+            Node* newNode = new Node(val);
+            newNode->next = head;
+            head = newNode;
+            return;
+        }
+        else if(index == getLength(head)){
+            Node* temp = head;
+            while(temp->next != nullptr){
+                temp=temp->next;
+            }
+            Node* NewNode = new Node(val);
+            temp->next = NewNode;
+            return;
+        }
+        int count = 0;
+        Node* temp = head;
+        while(temp != nullptr) {
+            if(count == index - 1) {
+                Node* newNode = new Node(val);
+                newNode->next = temp->next;
+                temp->next = newNode;
+                break;
+            }
+            count++;
+            temp = temp->next;
+        }
+    }
+    
+    void deleteAtIndex(int index) {
+        if(head == nullptr) {
+            return;
+        }
+        else if(index == 0){
+            Node* temp = head;
+            head = head->next;
+            delete temp;
+            return;
+        }
+        int count = 0;
+        Node* temp = head;
+        Node* prev = nullptr;
+        while(temp != nullptr){
+            if(count == index){
+                prev->next = temp->next;
+                delete temp;
+                return;
+            }
+            count++;
+            prev = temp;
+            temp = temp->next;
+        }
     }
 };
+
+/**
+ * Your MyLinkedList object will be instantiated and called as such:
+ * MyLinkedList* obj = new MyLinkedList();
+ * int param_1 = obj->get(index);
+ * obj->addAtHead(val);
+ * obj->addAtTail(val);
+ * obj->addAtIndex(index,val);
+ * obj->deleteAtIndex(index);
+ */
