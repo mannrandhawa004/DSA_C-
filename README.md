@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/mannrandhawa004/DSA_C-/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/mannrandhawa004/DSA_C-/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/mannrandhawa004/DSA_C-/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/mannrandhawa004/DSA_C-/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/mannrandhawa004/DSA_C-/tree/master/0283-move-zeroes) |
@@ -232,6 +233,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0206-reverse-linked-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/0206-reverse-linked-list) |
 | [0707-design-linked-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/0707-design-linked-list) |
 <!---LeetCode Topics End-->
