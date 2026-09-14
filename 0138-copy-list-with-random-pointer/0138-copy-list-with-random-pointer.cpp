@@ -16,25 +16,52 @@ public:
 
 class Solution {
 public:
-   Node* copyRandomList(Node* head) {
-    if (!head) return nullptr;
+    Node* copyRandomList(Node* head) {
+         if (head == nullptr) {
+            return nullptr;
+        }
 
-    // Pass 1: create copy nodes and build the mapping
-    unordered_map<Node*, Node*> nodeMap;
-    Node* current = head;
-    while (current) {
-        nodeMap[current] = new Node(current->val);
-        current = current->next;
+        // Step 1: Insert copied nodes next to original nodes
+        Node* curr = head;
+
+        while(curr != nullptr){
+            Node* copy = new Node(curr -> val);
+
+            copy -> next = curr -> next;
+            curr -> next = copy;
+
+            curr = copy -> next;
+        }
+
+        // Step 2: Set random pointers of copied nodes
+        curr = head;
+        while(curr != nullptr){
+            Node* copy = curr->next;
+
+            if (curr->random != nullptr) {
+                copy->random = curr->random->next;
+            }
+
+             curr = copy->next;
+        }
+
+        // Step 3: Separate the two lists
+        curr = head;
+        Node* copyHead = head->next;
+
+        while (curr != nullptr) {
+
+            Node* copy = curr->next;
+
+            curr->next = copy->next;
+
+            if (copy->next != nullptr) {
+                copy->next = copy->next->next;
+            }
+
+            curr = curr->next;
+        }
+
+        return copyHead;
     }
-
-    // Pass 2: wire up next and random pointers
-    current = head;
-    while (current) {
-        nodeMap[current]->next = nodeMap[current->next];
-        nodeMap[current]->random = nodeMap[current->random];
-        current = current->next;
-    }
-
-    return nodeMap[head];
-}
 };
