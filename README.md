@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/mannrandhawa004/DSA_C-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mannrandhawa004/DSA_C-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0142-linked-list-cycle-ii) |
+| [2181-merge-nodes-in-between-zeros](https://github.com/mannrandhawa004/DSA_C-/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
 | ------- |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/mannrandhawa004/DSA_C-/tree/master/0002-add-two-numbers) |
+## Simulation
+|  |
+| ------- |
+| [2181-merge-nodes-in-between-zeros](https://github.com/mannrandhawa004/DSA_C-/tree/master/2181-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
