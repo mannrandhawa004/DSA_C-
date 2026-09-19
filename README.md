@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0138-copy-list-with-random-pointer](https://github.com/mannrandhawa004/DSA_C-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/mannrandhawa004/DSA_C-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/0234-palindrome-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mannrandhawa004/DSA_C-/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0082-remove-duplicates-from-sorted-list-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0141-linked-list-cycle](https://github.com/mannrandhawa004/DSA_C-/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0142-linked-list-cycle-ii) |
+| [0148-sort-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/0234-palindrome-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
@@ -51,4 +53,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/0234-palindrome-linked-list) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/0148-sort-list) |
+## Sorting
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
