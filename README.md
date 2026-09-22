@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/0234-palindrome-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2181-merge-nodes-in-between-zeros](https://github.com/mannrandhawa004/DSA_C-/tree/master/2181-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0142-linked-list-cycle-ii](https://github.com/mannrandhawa004/DSA_C-/tree/master/0142-linked-list-cycle-ii) |
 | [0148-sort-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/0234-palindrome-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
