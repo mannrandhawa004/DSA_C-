@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/mannrandhawa004/DSA_C-/tree/master/0020-valid-parentheses) |
 | [0234-palindrome-linked-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/0234-palindrome-linked-list) |
 ## Divide and Conquer
 |  |
@@ -76,4 +77,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/mannrandhawa004/DSA_C-/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mannrandhawa004/DSA_C-/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/mannrandhawa004/DSA_C-/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
